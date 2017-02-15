@@ -9,14 +9,11 @@ import java.util.GregorianCalendar;
 import java.util.Locale;
 
 /**
- * Created Time: 2016/9/4.
- * <p>
- * Author:Melvin
- * <p>
- * 功能：日期工具类
+ * Created Time: 2017/2/15.
+ * Author:  zhy
+ * 功能：日起工具类
  */
 
-@SuppressWarnings("unused")
 public class TimeUtil {
     /**
      * 获取当前时间
